@@ -1,3 +1,21 @@
+REV2
+
+-----------FIXES-------------------
+
+No more needing to cut and paste commands to refresh script. SCRIPT WILL REFRESH INSTANTLY.
+
+-----------ADDS-------------------
+
+Added debug output window on Push Command Pages as well as added a separate Debug Page.
+
+Cleaned up Code Window to allow for 30 inputs and output triggers to be made.
+
+NOTE: Outputs will be able to emulate feedback.
+
+
+
+-------------------------------------------------------------------
+REV1
 ------ About ------
 
 This is a custom user module I created to send commands to a BiAmp Cambridge Audio Sound Masking System from a QSYS system using HTTP GET Commands.
